@@ -2,7 +2,7 @@
 
 # Make NFT on Base Great Again
 
-![Base Punkz Banner](Banner/banner.png)
+![Base Punkz Banner](Banner/Banner.png)
 
 **Base Punkz: 10,000 Unique NFTs That Embody the Remix Spirit of the New Creative Generation on Base**
 
@@ -13,15 +13,15 @@ Base Punkz is a collection of 10,000 unique NFTs that embodies the remix spirit 
 <table style="width:100%">
   <tr>
     <td style="width:33%; text-align:center;">
-      <img src="Banner/punkz-1.gif" alt="Base Punk #1" style="width:100%;">
+      <img src="Banner/Punkz-1.gif" alt="Base Punk #1" style="width:100%;">
       <p><strong>Base Punk #1</strong></p>
     </td>
     <td style="width:33%; text-align:center;">
-      <img src="Banner/punkz-2.gif" alt="Base Punk #5" style="width:100%;">
+      <img src="Banner/Punkz-2.gif" alt="Base Punk #5" style="width:100%;">
       <p><strong>Base Punk #2</strong></p>
     </td>
     <td style="width:33%; text-align:center;">
-      <img src="Banner/punkz-3.gif" alt="Base Punk #7" style="width:100%;">
+      <img src="Banner/Punkz-3.gif" alt="Base Punk #7" style="width:100%;">
       <p><strong>Base Punk #3</strong></p>
     </td>
   </tr>
